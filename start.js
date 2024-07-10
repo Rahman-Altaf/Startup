@@ -1,3 +1,3 @@
-const reh1 = ()=> {
+const reh = ()=> {
     console.log("Hello World") 
 }
